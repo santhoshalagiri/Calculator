@@ -1,4 +1,3 @@
-#Calculator
 Calculator with amazing design using Javascript, CSS for styling
 
 # Getting Started with Create React App
