@@ -1,5 +1,6 @@
-Calculator with amazing design using Javascript, CSS for styling
+# Calculator with amazing design using Javascript, CSS for styling
 
 
-(https://user-images.githubusercontent.com/75033440/190935057-fdd16eeb-5054-4b76-ae16-1aa433ce14b1.png)
+#Output
 
+![Screen Shot 2022-09-18 at 8 36 40 PM](https://user-images.githubusercontent.com/75033440/190935625-59f4f0e9-5a9c-465d-93e0-b1bc7f4c4730.png)
